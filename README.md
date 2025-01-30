@@ -1,5 +1,5 @@
 # Bank Marketing Campaign Analysis  
----
+
 ## 📌 Project Overview  
 This project analyzes a Portuguese bank’s marketing campaigns (2008–2013) to predict customer subscriptions to term deposits.  
 
