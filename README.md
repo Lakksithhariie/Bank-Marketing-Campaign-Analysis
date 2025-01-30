@@ -42,15 +42,3 @@ You'll need to have these Python libraries installed (they are usually installed
 *   imblearn
 
 You can install them if needed using `pip install library_name`.
-
-## Want to contribute?
-
-Feel free to fork this project and make it better!
-
-## License
-
-[Choose a license, like MIT License, and mention it here if you want]
-
----
-
-This is a simplified version to get you started. You can always add more details later if you want!  Just copy and paste this text into a file named `README.md` in your repository. 😊
